@@ -1,1 +1,1 @@
-# Reboot-The-Earth
+## Drought forecasting using Palmer Drought Severity Index (PDSI)
